@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(250): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\1studing\calculating methods\lab2\lab2\lab2\main.cpp(295): warning C4018: '<': signed/unsigned mismatch
+  lab2.vcxproj -> C:\Users\User\Desktop\1studing\Calculating methods\lab2\lab2\Debug\lab2.exe
